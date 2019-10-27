@@ -1,5 +1,4 @@
 # hello-world
 
-Sem ter muito o que escrever.
-
-bola pra frente
+Another Initial GitHub
+Hello, i don't know what to say. So, let's go.
